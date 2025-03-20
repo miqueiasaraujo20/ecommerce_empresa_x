@@ -46,3 +46,10 @@ contribuidor principal: https://www.github.com/matheusbattisti
     return a + b;
   }
 ```
+
+## Lista de tarefas a fazer:
+
+- [x] Area de membros
+- [ ] integraçao com outros pagamentos 
+- [ ] sistemade bonus 
+- [x] CSS do rodapé
