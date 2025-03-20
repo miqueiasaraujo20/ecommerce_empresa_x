@@ -35,4 +35,6 @@ Melhoria 1, melhoria 2
 [Google](https://www.google.com)
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
-contribuidor princiapal: https://www.github.com/matheusbattisti
+contribuidor principal: https://www.github.com/matheusbattisti
+
+![Logo do PHP](https://upload.wikimedia.org/wikimedia/commons/2/27/PHP-logo.svg)(https://www.github.com/matheusbattisti)
