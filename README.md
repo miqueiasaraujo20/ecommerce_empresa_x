@@ -38,3 +38,11 @@ Melhoria 1, melhoria 2
 contribuidor principal: https://www.github.com/matheusbattisti
 
 ![Logo do PHP](https://upload.wikimedia.org/wikimedia/commons/2/27/PHP-logo.svg)(https://www.github.com/matheusbattisti)
+
+## codigo da funçao soma
+
+```Javascript
+  function soma(a, b) {
+    return a + b;
+  }
+```
