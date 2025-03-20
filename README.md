@@ -25,3 +25,11 @@ Melhoria 1, melhoria 2
 2. Integraçao com outros pagamentos 
 3. Sistema de bonus primeira compra 
 
+### Imagem local 
+
+![Logo do python](python.jpeg)
+
+
+## Links interesates:
+
+[Google](https://www.google.com)
